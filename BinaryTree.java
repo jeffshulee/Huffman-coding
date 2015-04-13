@@ -4,7 +4,7 @@ import java.io.*;
 /**
  * Generic binary tree, storing data of a parametric data in each node
  *
- * @author Chris Bailey-Kellogg, Dartmouth CS 10, Fall 2012
+ * @author Chris Bailey-Kellogg 
  */
 public class BinaryTree<NodeData> {
 	private BinaryTree<NodeData> left, right;	// children; can be null
